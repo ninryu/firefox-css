@@ -1,4 +1,4 @@
-![screenshot](https://raw.githubusercontent.com/RiDeag/Stilig/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/commit-sudoku/firefox-css/master/preview.png)
 
  Info
 -----------
